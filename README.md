@@ -6,14 +6,19 @@
 
 ## Run
 
+### Binaries
+
+Please [download](https://github.com/mxmar/eth1genesis/releases/tag/v1.0.0) and use as a standard binary (no flags, just execute: `./eth1genesis-v1.0.0-<linux/darwin>-amd64`)
+
+### Go run
 1. Copy your `genesis.json` to working directory.
 2. Execute: `go run .`
 3. Check your terminal output for genesis block hash and stateRoot.
 
-## Build
+## Build from source
 
 1. Execute: `go build .`
 
-## Run build
+### Run build
 
 1. Execute: `./eth1genesis `
