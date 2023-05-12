@@ -1,4 +1,4 @@
-# eth1genesis
+# Genesis hash calculator
 
 ## Requirements
 
